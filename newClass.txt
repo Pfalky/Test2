@@ -1,0 +1,3 @@
+testClass
+new class variables
+new class functions
